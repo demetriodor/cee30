@@ -1,5 +1,5 @@
 # cee30
-Code for the data visualizations of '30 Years of Socio-Economic Developments in Central and Eastern Europe'
+Code in <code>base R</code> for the data visualizations of '30 Years of Socio-Economic Developments in Central and Eastern Europe'
 
 The set of data visualizations is available at http://dimiter.eu/Visualizations_files/CEE.html
 
